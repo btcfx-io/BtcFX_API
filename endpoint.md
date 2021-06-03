@@ -2,6 +2,6 @@
 
 Name | base endpoint
 ------------ | ------------
-rest-api | **[https://api.btcfx.com](https://api.btcfx.com)**
-web-socket-streams | **[wss://wsapi.btcfx.com](wss://wsapi.btcfx.com)**
-user-data-stream | **[wss://wsapi.btcfx.com](wss://wsapi.btcfx.com)**
+rest-api | **[https://api.btcfx.io](https://api.btcfx.io)**
+web-socket-streams | **[wss://wsapi.btcfx.io](wss://wsapi.btcfx.io)**
+user-data-stream | **[wss://wsapi.btcfx.io](wss://wsapi.btcfx.io)**
